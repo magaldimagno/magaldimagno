@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm @magaldimagno 👋
+- 🔭 I’m currently working on nothing, I'm studying yet :(
+- 🌱 I’m currently learning HTML5, CSS3, Git and GitHub
+- 😄 Pronouns: he/him
 
 <!--
 **magaldimagno/magaldimagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
