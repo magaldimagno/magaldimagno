@@ -1,5 +1,5 @@
 ### Hi there, I'm @magaldimagno 👋
-- 🌱 I’m currently learning HTML5, CSS3, Git and GitHub
+- 🌱 I’m currently learning HTML5 and CSS3
 - 😄 Pronouns: he/him
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magaldimagno&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
