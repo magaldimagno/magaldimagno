@@ -1,6 +1,6 @@
 ### Hi there, I'm @magaldimagno 👋
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
-- 😄 BRB, studying for finals.
+- 🌱 I’m currently learning C++ and Python.
+- 😄 Now coding from University of São Paulo.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magaldimagno&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <!--
