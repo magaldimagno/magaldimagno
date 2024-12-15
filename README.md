@@ -1,7 +1,8 @@
 ### Hi there, I'm @magaldimagno 👋
-- 🌱 I’m currently learning C and Python.
+- 🌱 I’m currently learning C++ and Python.
 - 😄 Pronouns: he/him.
-- ⚡ Now coding from University of São Paulo.
+- ⚡ Electrical Engineering.
+- 🧑‍💻 Now coding from University of São Paulo.
 
 <!--
 
